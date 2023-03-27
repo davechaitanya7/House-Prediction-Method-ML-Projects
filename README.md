@@ -1,1 +1,1 @@
-# House-Pridication-Method ML Projects
+# House-Prediction-Method ML Projects
