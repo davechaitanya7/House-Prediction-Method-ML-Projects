@@ -1,1 +1,1 @@
-# House-Prediction-Method ML Projects
+# House-Rate-Prediction-Method ML Projects
